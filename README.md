@@ -19,9 +19,9 @@
 4. After detecting and tracking, the result video and file are saved under `results` directory, the line of `output.xlsx` with format \[videoName,id,objectName] for each vehicle.
 
 ## Demo
-![avatar](https://github.com/wsh122333/Multi-type_vehicles_flow_statistics/raw/master/asserts/demo1.gif)
+![avatar](https://github.com/k-Shubha/Vehicle_counting_in_video/blob/master/asserts/Demo_Vehicle%20Counter_1_Trim.mp4)
 
-![avatar](https://github.com/wsh122333/Multi-type_vehicles_flow_statistics/raw/master/asserts/demo2.gif)
+![avatar](https://github.com/k-Shubha/Vehicle_counting_in_video/blob/master/asserts/Demo_Vehicle%20Counter_2_Trim.mp4)
 
 ![avatar](https://github.com/wsh122333/Multi-type_vehicles_flow_statistics/raw/master/asserts/demo3.gif)
 
